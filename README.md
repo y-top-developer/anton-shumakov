@@ -8,7 +8,7 @@ I know how to program in C and C # - examples of code can be found in my reposit
   
 I participated in a large number of CTFs (https://ctfnews.ru/what-is-ctf/) with the team (https://ctftime.org/team/75203), so I have a lot of experience in solving non-standard problems and I understand why it is important to write safe code.
 
-I read the webinar (https://www.ptsecurity.com/ru-ru/research/webinar/povyshenie-privilegij-v-sisteme-detektirovanie-tekhnik-na-primere-pt-sandbox/). Conducted a club of information security at the university.
+I spoke on the webinar (https://www.ptsecurity.com/ru-ru/research/webinar/povyshenie-privilegij-v-sisteme-detektirovanie-tekhnik-na-primere-pt-sandbox/). Conducted a club of information security at the university.
 
 I actively use git and docker during development, and since I worked as a reverse engineer, I read someone else's code well)</p>
 
