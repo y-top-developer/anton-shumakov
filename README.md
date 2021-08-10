@@ -4,7 +4,7 @@
 
 <p>I have been programming in Python for over 2 years, during which time I have used it in a variety of situations - from writing web scrapers to creating machine learning models and sites in Django.🐍
 
-I know how to program in C and C # - examples of my code can be found in my repositories.
+I know how to program in C and C # - examples of code can be found in my repositories.
   
 I participated in a large number of CTFs (https://ctfnews.ru/what-is-ctf/) with the team (https://ctftime.org/team/75203), so I have a lot of experience in solving non-standard problems and I understand why it is important to write safe code.
 
