@@ -2,7 +2,7 @@
 
 <h2>Nice to see you.</h2>
 
-<p>I have been programming in Python for over 2 years, during which time I have used it in a variety of situations - from writing web scrapers to creating machine learning models and sites in Django.🐍
+<p>I have been programming in Python for over 3 years, during which time I have used it in a variety of situations - from writing web scrapers to creating machine learning models and sites in Django.🐍
 
 I know how to program in C and C # - examples of code can be found in my repositories.
   
